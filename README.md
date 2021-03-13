@@ -1,4 +1,4 @@
 # dxtv
 
-`https://github.com/dtvv/dxtv/`
+`https://github.com/dtvv/dxtv.git`
 ![](empty.png)
