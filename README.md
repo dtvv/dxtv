@@ -1,3 +1,3 @@
 # dxtv
 
-![empty](.empty.png)
+![](empty.png)
