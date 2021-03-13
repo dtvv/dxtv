@@ -2,8 +2,6 @@
 
 `https://github.com/dtvv/dxtv`
 
-![](empty.png)
-
 ## lists
 
 <details>
